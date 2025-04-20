@@ -9,7 +9,7 @@
 💡 *"Cada línea de código que escribo es un paso más hacia el futuro que quiero construir. ¡Frontend, creatividad y propósito en cada proyecto!"*  
 
 [![Portafolio](https://img.shields.io/badge/-🚀_Portafolio-FF7139?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://tu-portafolio.com)
-[![LinkedIn](https://img.shields.io/badge/-💼_LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-💼_LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/jhon-carreño-468194211)
 [![WhatsApp](https://img.shields.io/badge/-📱_WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/573186040819)
 
 ---
