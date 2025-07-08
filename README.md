@@ -1,4 +1,4 @@
-# ¡Hola Mundo! 👋 Soy Jhon Fredy Carreño Punto  
+# ¡Hola Mundo! 👋 Soy Jhon Fredy Carreño Pinto  
 
 ### 🧠 *Joven Desarrollador Full Stack con Pasión por el Frontend y las Soluciones Digitales*  
 
